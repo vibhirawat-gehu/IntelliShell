@@ -880,41 +880,6 @@ Built with reference to:
 4. **Secure your session** - Use `login`/`logout` for RBAC
 5. **Review history** - Use `history` to learn and repeat commands
 
----
 
-## ❓ FAQ
 
-**Q: Why does my suggestion not appear?**
-A: Suggestions appear for commands that have been used 3+ times or are in the command database. New commands may take a few uses.
 
-**Q: Can I use IntelliShell on Windows?**
-A: Yes! Use MSYS2 or WSL (Windows Subsystem for Linux) for best experience.
-
-**Q: How do I create a custom alias?**
-A: Use the `alias` command: `alias myname=original_command`
-
-**Q: What's the difference between `>` and `>>`?**
-A: `>` overwrites the file, `>>` appends to the file.
-
-**Q: How do I run a command with admin privileges?**
-A: Use `sudo command` (requires admin role in RBAC).
-
-**Q: Can I use IntelliShell as my default shell?**
-A: Currently it's designed as an enhanced shell for interactive use. You can launch it from your default shell.
-
----
-
-## 📞 Support & Contact
-
-For issues, suggestions, or contributions:
-1. Check the Troubleshooting section above
-2. Review DOCUMENTATION.md for technical details
-3. Check RBAC_IMPLEMENTATION.md for security features
-4. Refer to FEATURES.md for complete feature list
-
----
-
-**IntelliShell** - Making Your Terminal Smarter, Faster, and More Enjoyable 🎉
-
-*Last Updated: November 2025*  
-*Project Status: ✅ Complete and Production-Ready*
