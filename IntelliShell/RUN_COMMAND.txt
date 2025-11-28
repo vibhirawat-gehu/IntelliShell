@@ -1,5 +1,0 @@
-TO RUN THE PROJECT:
-
-.\smart_shell.exe
-
-That's it! Just run that command.
